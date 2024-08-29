@@ -36,7 +36,7 @@ Hi, I'm **Simran**, a BTech Computer Science student with a passion for coding a
 
 I'm always excited to connect with fellow coders, students, and tech enthusiasts. Feel free to reach out or follow my progress on:
 
-- **Email:** (mailto:simransingh90879@gmail.com)
+- **Email:** (simransingh90879@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/simran-singh-350710325/)
 - **Twitter:** (https://x.com/SimranSing91587)
 
